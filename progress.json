@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:58:48.120Z",
+  "generated_at": "2026-09-28T21:07:32.777Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -429,6 +429,19 @@
       "last_pushed_at": "2026-09-28T20:58:47.452Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1285": {
+      "kind": "problem",
+      "id": "1285",
+      "title": "Tensor Puzzle: Linspace from Endpoints",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1285",
+      "path": "problems/1285-tensor-puzzle-linspace-from-endpoints",
+      "first_solved_at": "2026-09-28T21:07:29.941Z",
+      "last_pushed_at": "2026-09-28T21:07:29.941Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
