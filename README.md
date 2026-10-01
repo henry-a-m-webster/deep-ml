@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-10-01 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-01 | [solution](problems/0334-cholesky-decomposition) |
+| [Compute Normalized Subspace Similarity Between Low-Rank Matrices](https://www.deep-ml.com/problems/868) | medium | 2026-10-01 | [solution](problems/0868-compute-normalized-subspace-similarity-between-low-rank-matrices) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-10-01 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-10-01 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-01 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
