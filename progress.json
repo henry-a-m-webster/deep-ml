@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:29:11.963Z",
+  "generated_at": "2026-10-01T11:39:19.328Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -572,6 +572,19 @@
       "last_pushed_at": "2026-09-29T11:29:11.200Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-10-01T11:39:18.618Z",
+      "last_pushed_at": "2026-10-01T11:39:18.618Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
